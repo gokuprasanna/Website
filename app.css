@@ -1,12 +1,12 @@
 h1{
-    color : Green;
+    color : Cyan;
 }
 h2{
-    color : Green;
+    color : Blue;
 }
 body{
     background-color: black;
-    background-image: url("C:\Users\goku_\Pictures\Screenshots\Screenshot 2024-09-27 115412.png");
+    background-image: url("bg-ai.webp");
     background-size:cover;
 }
 p{
